@@ -1,5 +1,5 @@
-#ifndef SORT_H
-#define SORT_H
+#ifndef KHALIFA_H
+#define KHALIFA_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -51,4 +51,4 @@ void radix_sort(int *array, size_t size);
 void bitonic_sort(int *array, size_t size);
 void quick_sort_hoare(int *array, size_t size);
 
-#endif /* SORT_H */
+#endif /* KHALIFA_H */
