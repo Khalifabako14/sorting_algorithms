@@ -1,4 +1,5 @@
 # C - Sorting algorithms & Big O
+# Author - Khalifa Bako
 
 In this project, I implemented several different sorting algorithms.
 
