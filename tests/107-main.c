@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../khalifa.h"
+#include "../sort.h"
 
 /**
  * main - The entry point
