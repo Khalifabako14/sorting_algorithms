@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "khalifa.h"
+#include "sort.h"
 
 /**
  * print_list - A function that prints a list of integer
